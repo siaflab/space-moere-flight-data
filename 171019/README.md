@@ -1,4 +1,4 @@
-Flight path of the balloon launched from Moerenuma Park received at the Ground station in 19 Oct, 2017.
+Flight path of the balloon launched from Moerenuma Park received on real time at the Ground station in 19 Oct, 2017.
 
 
 <img src="https://github.com/siaflab/space-moere-flight-data/blob/master/171019/balloon_launch.jpg" alt="miniaturized payload in 2017.10.19" title="Aminiaturized payload at 2017.10.19">
