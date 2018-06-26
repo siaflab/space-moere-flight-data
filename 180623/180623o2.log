@@ -1,480 +1,320 @@
 2018/06/23 19:59:36 `d1'v*2 e*4',n:'irand 1',rate:'irand -4 -1'`
-2018/06/23 19:59:36 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195936.551
-d1'v*2 e*4',n:'irand 1',rate:'irand -4 -1'",0,0,0`
+2018/06/23 19:59:36 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195936.551d1'v*2 e*4',n:'irand 1',rate:'irand -4 -1'",0,0,0`
 2018/06/23 19:59:46 `cfdr la:43.123050,lo:141.430926,a:15.0`
-2018/06/23 19:59:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195946.386
-cfdr la:43.123050,lo:141.430926,a:15.0",0,0,0`
+2018/06/23 19:59:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195946.386cfdr la:43.123050,lo:141.430926,a:15.0",0,0,0`
 2018/06/23 19:59:51 `d1'e*5 e*5',n:'5',rate:'irand -3 -1'`
-2018/06/23 19:59:51 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195951.223
-d1'e*5 e*5',n:'5',rate:'irand -3 -1'",0,0,0`
+2018/06/23 19:59:51 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195951.223d1'e*5 e*5',n:'5',rate:'irand -3 -1'",0,0,0`
 2018/06/23 19:59:56 `cfdr la:43.123049,lo:141.430924,a:11.9`
-2018/06/23 19:59:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195956.387
-cfdr la:43.123049,lo:141.430924,a:11.9",0,0,0`
+2018/06/23 19:59:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195956.387cfdr la:43.123049,lo:141.430924,a:11.9",0,0,0`
 2018/06/23 20:00:01 `d1'e*4 v*5',n:'irand',rate:'irand 1 2'`
-2018/06/23 20:00:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200001.390
-d1'e*4 v*5',n:'irand',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:00:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200001.390d1'e*4 v*5',n:'irand',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:00:10 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:00:10 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200010.941
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:00:10 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200010.941with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:00:17 `cfdr la:43.123560,lo:141.430567,a:53.3`
-2018/06/23 20:00:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200017.588
-cfdr la:43.123560,lo:141.430567,a:53.3",0,0,0`
+2018/06/23 20:00:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200017.588cfdr la:43.123560,lo:141.430567,a:53.3",0,0,0`
 2018/06/23 20:00:27 `d1'v*4 e*6',n:'8',rate:'irand 1 4'`
-2018/06/23 20:00:27 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200027.424
-d1'v*4 e*6',n:'8',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:00:27 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200027.424d1'v*4 e*6',n:'8',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:00:32 `cfdr la:43.124180,lo:141.429872,a:115.8`
-2018/06/23 20:00:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200032.589
-cfdr la:43.124180,lo:141.429872,a:115.8",0,0,0`
+2018/06/23 20:00:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200032.589cfdr la:43.124180,lo:141.429872,a:115.8",0,0,0`
 2018/06/23 20:00:37 `d1'v*2 e*4',n:'irand 4',rate:'irand -4 -1'`
-2018/06/23 20:00:37 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200037.754
-d1'v*2 e*4',n:'irand 4',rate:'irand -4 -1'",0,0,0`
+2018/06/23 20:00:37 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200037.754d1'v*2 e*4',n:'irand 4',rate:'irand -4 -1'",0,0,0`
 2018/06/23 20:00:42 `cfdr la:43.125024,lo:141.429159,a:163.7`
-2018/06/23 20:00:42 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200042.593
-cfdr la:43.125024,lo:141.429159,a:163.7",0,0,0`
+2018/06/23 20:00:42 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200042.593cfdr la:43.125024,lo:141.429159,a:163.7",0,0,0`
 2018/06/23 20:00:47 `d1'v*2 v*4',n:'2',rate:'irand -2 -1'`
-2018/06/23 20:00:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200047.427
-d1'v*2 v*4',n:'2',rate:'irand -2 -1'",0,0,0`
+2018/06/23 20:00:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200047.427d1'v*2 v*4',n:'2',rate:'irand -2 -1'",0,0,0`
 2018/06/23 20:00:57 `cfdr la:43.125970,lo:141.428996,a:211.4`
-2018/06/23 20:00:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200057.596
-cfdr la:43.125970,lo:141.428996,a:211.4",0,0,0`
+2018/06/23 20:00:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200057.596cfdr la:43.125970,lo:141.428996,a:211.4",0,0,0`
 2018/06/23 20:01:01 `cps 0.8`
-2018/06/23 20:01:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200101.608
-cps 0.8",0,0,0`
+2018/06/23 20:01:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200101.608cps 0.8",0,0,0`
 2018/06/23 20:01:12 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:01:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200112.160
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:01:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200112.160with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:01:18 `cfdr la:43.128836,lo:141.430010,a:378.8`
-2018/06/23 20:01:18 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200118.806
-cfdr la:43.128836,lo:141.430010,a:378.8",0,0,0`
+2018/06/23 20:01:18 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200118.806cfdr la:43.128836,lo:141.430010,a:378.8",0,0,0`
 2018/06/23 20:01:23 `d1'v*5 e*8',n:'irand',rate:'irand -3 -1'`
-2018/06/23 20:01:23 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200123.806
-d1'v*5 e*8',n:'irand',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:01:23 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200123.806d1'v*5 e*8',n:'irand',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:01:33 `cfdr la:43.129864,lo:141.430836,a:437.1`
-2018/06/23 20:01:33 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200133.807
-cfdr la:43.129864,lo:141.430836,a:437.1",0,0,0`
+2018/06/23 20:01:33 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200133.807cfdr la:43.129864,lo:141.430836,a:437.1",0,0,0`
 2018/06/23 20:01:38 `d1'e*5 v*2',n:'irand 8',rate:'irand -3 -1'`
-2018/06/23 20:01:38 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200138.971
-d1'e*5 v*2',n:'irand 8',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:01:38 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200138.971d1'e*5 v*2',n:'irand 8',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:01:43 `cfdr la:43.130686,lo:141.431680,a:497.8`
-2018/06/23 20:01:43 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200143.807
-cfdr la:43.130686,lo:141.431680,a:497.8",0,0,0`
+2018/06/23 20:01:43 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200143.807cfdr la:43.130686,lo:141.431680,a:497.8",0,0,0`
 2018/06/23 20:01:48 `d1'e*4 e*6',n:'6',rate:'irand 1 4'`
-2018/06/23 20:01:48 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200148.643
-d1'e*4 e*6',n:'6',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:01:48 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200148.643d1'e*4 e*6',n:'6',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:01:53 `cfdr la:43.131407,lo:141.432411,a:562.6`
-2018/06/23 20:01:53 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200153.808
-cfdr la:43.131407,lo:141.432411,a:562.6",0,0,0`
+2018/06/23 20:01:53 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200153.808cfdr la:43.131407,lo:141.432411,a:562.6",0,0,0`
 2018/06/23 20:01:57 `cps 0.8`
-2018/06/23 20:01:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200157.822
-cps 0.8",0,0,0`
+2018/06/23 20:01:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200157.822cps 0.8",0,0,0`
 2018/06/23 20:02:03 `cfdr la:43.132129,lo:141.433149,a:627.0`
-2018/06/23 20:02:03 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200203.809
-cfdr la:43.132129,lo:141.433149,a:627.0",0,0,0`
+2018/06/23 20:02:03 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200203.809cfdr la:43.132129,lo:141.433149,a:627.0",0,0,0`
 2018/06/23 20:02:13 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:02:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200213.525
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:02:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200213.525with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:02:20 `cfdr la:43.133375,lo:141.434680,a:757.2`
-2018/06/23 20:02:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200220.172
-cfdr la:43.133375,lo:141.434680,a:757.2",0,0,0`
+2018/06/23 20:02:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200220.172cfdr la:43.133375,lo:141.434680,a:757.2",0,0,0`
 2018/06/23 20:02:25 `d1'e*4 e*2',n:'irand 8',rate:'irand 1 2'`
-2018/06/23 20:02:25 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200225.173
-d1'e*4 e*2',n:'irand 8',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:02:25 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200225.173d1'e*4 e*2',n:'irand 8',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:02:30 `cfdr la:43.133904,lo:141.435594,a:823.6`
-2018/06/23 20:02:30 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200230.180
-cfdr la:43.133904,lo:141.435594,a:823.6",0,0,0`
+2018/06/23 20:02:30 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200230.180cfdr la:43.133904,lo:141.435594,a:823.6",0,0,0`
 2018/06/23 20:02:35 `d1'v*4 v*3',n:'irand 8',rate:'irand 1 4'`
-2018/06/23 20:02:35 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200235.173
-d1'v*4 v*3',n:'irand 8',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:02:35 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200235.173d1'v*4 v*3',n:'irand 8',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:02:45 `cfdr la:43.134386,lo:141.436710,a:876.9`
-2018/06/23 20:02:45 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200245.174
-cfdr la:43.134386,lo:141.436710,a:876.9",0,0,0`
+2018/06/23 20:02:45 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200245.174cfdr la:43.134386,lo:141.436710,a:876.9",0,0,0`
 2018/06/23 20:02:50 `d1'e*3 v*4',n:'irand 8',rate:'irand 1 4'`
-2018/06/23 20:02:50 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200250.175
-d1'e*3 v*4',n:'irand 8',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:02:50 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200250.175d1'e*3 v*4',n:'irand 8',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:02:55 `cfdr la:43.134862,lo:141.437804,a:934.6`
-2018/06/23 20:02:55 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200255.175
-cfdr la:43.134862,lo:141.437804,a:934.6",0,0,0`
+2018/06/23 20:02:55 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200255.175cfdr la:43.134862,lo:141.437804,a:934.6",0,0,0`
 2018/06/23 20:02:59 `cps 0.6`
-2018/06/23 20:02:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200259.197
-cps 0.6",0,0,0`
+2018/06/23 20:02:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200259.197cps 0.6",0,0,0`
 2018/06/23 20:03:05 `cfdr la:43.135322,lo:141.438826,a:996.8`
-2018/06/23 20:03:05 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200305.176
-cfdr la:43.135322,lo:141.438826,a:996.8",0,0,0`
+2018/06/23 20:03:05 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200305.176cfdr la:43.135322,lo:141.438826,a:996.8",0,0,0`
 2018/06/23 20:03:14 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:03:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200314.870
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:03:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200314.870with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:03:21 `cfdr la:43.135848,lo:141.440857,a:1122.6`
-2018/06/23 20:03:21 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200321.516
-cfdr la:43.135848,lo:141.440857,a:1122.6",0,0,0`
+2018/06/23 20:03:21 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200321.516cfdr la:43.135848,lo:141.440857,a:1122.6",0,0,0`
 2018/06/23 20:03:26 `d1'v*3 v*5',n:'irand 8',rate:'irand 1 3'`
-2018/06/23 20:03:26 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200326.516
-d1'v*3 v*5',n:'irand 8',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:03:26 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200326.516d1'v*3 v*5',n:'irand 8',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:03:31 `cfdr la:43.136145,lo:141.441842,a:1190.0`
-2018/06/23 20:03:31 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200331.517
-cfdr la:43.136145,lo:141.441842,a:1190.0",0,0,0`
+2018/06/23 20:03:31 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200331.517cfdr la:43.136145,lo:141.441842,a:1190.0",0,0,0`
 2018/06/23 20:03:36 `d1'v*5 v*6',n:'3',rate:'irand 1 3'`
-2018/06/23 20:03:36 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200336.352
-d1'v*5 v*6',n:'3',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:03:36 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200336.352d1'v*5 v*6',n:'3',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:03:41 `cfdr la:43.136375,lo:141.442943,a:1255.6`
-2018/06/23 20:03:41 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200341.518
-cfdr la:43.136375,lo:141.442943,a:1255.6",0,0,0`
+2018/06/23 20:03:41 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200341.518cfdr la:43.136375,lo:141.442943,a:1255.6",0,0,0`
 2018/06/23 20:03:46 `d1'v*5 e*8',n:'irand 8',rate:'irand -3 -1'`
-2018/06/23 20:03:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200346.683
-d1'v*5 e*8',n:'irand 8',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:03:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200346.683d1'v*5 e*8',n:'irand 8',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:03:56 `cfdr la:43.136623,lo:141.444073,a:1320.3`
-2018/06/23 20:03:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200356.519
-cfdr la:43.136623,lo:141.444073,a:1320.3",0,0,0`
+2018/06/23 20:03:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200356.519cfdr la:43.136623,lo:141.444073,a:1320.3",0,0,0`
 2018/06/23 20:04:01 `cfdr la:43.136854,lo:141.445502,a:1385.3`
-2018/06/23 20:04:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200401.519
-cfdr la:43.136854,lo:141.445502,a:1385.3",0,0,0`
+2018/06/23 20:04:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200401.519cfdr la:43.136854,lo:141.445502,a:1385.3",0,0,0`
 2018/06/23 20:04:06 `d1'e*5 v*4',n:'1',rate:'irand 1 4'`
-2018/06/23 20:04:06 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200406.356
-d1'e*5 v*4',n:'1',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:04:06 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200406.356d1'e*5 v*4',n:'1',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:04:16 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:04:16 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200416.075
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:04:16 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200416.075with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:04:22 `cfdr la:43.137319,lo:141.448170,a:1494.5`
-2018/06/23 20:04:22 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200422.723
-cfdr la:43.137319,lo:141.448170,a:1494.5",0,0,0`
+2018/06/23 20:04:22 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200422.723cfdr la:43.137319,lo:141.448170,a:1494.5",0,0,0`
 2018/06/23 20:04:27 `d1'v*4 v*4',n:'irand',rate:'irand -4 -1'`
-2018/06/23 20:04:27 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200427.722
-d1'v*4 v*4',n:'irand',rate:'irand -4 -1'",0,0,0`
+2018/06/23 20:04:27 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200427.722d1'v*4 v*4',n:'irand',rate:'irand -4 -1'",0,0,0`
 2018/06/23 20:04:32 `cfdr la:43.137542,lo:141.449417,a:1546.7`
-2018/06/23 20:04:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200432.724
-cfdr la:43.137542,lo:141.449417,a:1546.7",0,0,0`
+2018/06/23 20:04:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200432.724cfdr la:43.137542,lo:141.449417,a:1546.7",0,0,0`
 2018/06/23 20:04:37 `d1'v*2 v*3',n:'irand 7',rate:'irand -3 -1'`
-2018/06/23 20:04:37 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200437.887
-d1'v*2 v*3',n:'irand 7',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:04:37 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200437.887d1'v*2 v*3',n:'irand 7',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:04:42 `cfdr la:43.137792,lo:141.450830,a:1601.5`
-2018/06/23 20:04:42 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200442.724
-cfdr la:43.137792,lo:141.450830,a:1601.5",0,0,0`
+2018/06/23 20:04:42 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200442.724cfdr la:43.137792,lo:141.450830,a:1601.5",0,0,0`
 2018/06/23 20:04:47 `d1'e*5 e*3',n:'irand 8',rate:'irand 1 2'`
-2018/06/23 20:04:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200447.724
-d1'e*5 e*3',n:'irand 8',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:04:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200447.724d1'e*5 e*3',n:'irand 8',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:04:57 `cfdr la:43.138092,lo:141.452210,a:1655.2`
-2018/06/23 20:04:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200457.724
-cfdr la:43.138092,lo:141.452210,a:1655.2",0,0,0`
+2018/06/23 20:04:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200457.724cfdr la:43.138092,lo:141.452210,a:1655.2",0,0,0`
 2018/06/23 20:05:02 `d1'e*4 e*5',n:'irand 8',rate:'irand -2 -1'`
-2018/06/23 20:05:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200502.889
-d1'e*4 e*5',n:'irand 8',rate:'irand -2 -1'",0,0,0`
+2018/06/23 20:05:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200502.889d1'e*4 e*5',n:'irand 8',rate:'irand -2 -1'",0,0,0`
 2018/06/23 20:05:17 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:05:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200517.366
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:05:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200517.366with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:05:23 `d1'v*2 v*2',n:'2',rate:'irand 1 3'`
-2018/06/23 20:05:23 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200523.846
-d1'v*2 v*2',n:'2',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:05:23 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200523.846d1'v*2 v*2',n:'2',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:05:34 `cfdr la:43.139217,lo:141.458993,a:1875.1`
-2018/06/23 20:05:34 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200534.012
-cfdr la:43.139217,lo:141.458993,a:1875.1",0,0,0`
+2018/06/23 20:05:34 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200534.012cfdr la:43.139217,lo:141.458993,a:1875.1",0,0,0`
 2018/06/23 20:05:39 `d1'e*2 e*3',n:'irand',rate:'irand -3 -1'`
-2018/06/23 20:05:39 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200539.013
-d1'e*2 e*3',n:'irand',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:05:39 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200539.013d1'e*2 e*3',n:'irand',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:05:44 `cfdr la:43.139724,lo:141.461200,a:1932.4`
-2018/06/23 20:05:44 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200544.013
-cfdr la:43.139724,lo:141.461200,a:1932.4",0,0,0`
+2018/06/23 20:05:44 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200544.013cfdr la:43.139724,lo:141.461200,a:1932.4",0,0,0`
 2018/06/23 20:05:49 `d1'v*5 v*2',n:'irand 8',rate:'irand -3 -1'`
-2018/06/23 20:05:49 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200549.177
-d1'v*5 v*2',n:'irand 8',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:05:49 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200549.177d1'v*5 v*2',n:'irand 8',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:05:54 `cfdr la:43.140345,lo:141.463511,a:1989.4`
-2018/06/23 20:05:54 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200554.014
-cfdr la:43.140345,lo:141.463511,a:1989.4",0,0,0`
+2018/06/23 20:05:54 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200554.014cfdr la:43.140345,lo:141.463511,a:1989.4",0,0,0`
 2018/06/23 20:05:59 `d1'v*3 e*5',n:'irand 5',rate:'irand 1 3'`
-2018/06/23 20:05:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200559.025
-d1'v*3 e*5',n:'irand 5',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:05:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200559.025d1'v*3 e*5',n:'irand 5',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:06:04 `cfdr la:43.140792,lo:141.465890,a:2046.8`
-2018/06/23 20:06:04 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200604.015
-cfdr la:43.140792,lo:141.465890,a:2046.8",0,0,0`
+2018/06/23 20:06:04 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200604.015cfdr la:43.140792,lo:141.465890,a:2046.8",0,0,0`
 2018/06/23 20:06:07 `cps 0.5`
-2018/06/23 20:06:07 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200607.863
-cps 0.5",0,0,0`
+2018/06/23 20:06:07 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200607.863cps 0.5",0,0,0`
 2018/06/23 20:06:18 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:06:18 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200618.824
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:06:18 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200618.824with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:06:25 `d1'v*2 v*5',n:'irand 8',rate:'irand 1 2'`
-2018/06/23 20:06:25 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200625.469
-d1'v*2 v*5',n:'irand 8',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:06:25 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200625.469d1'v*2 v*5',n:'irand 8',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:06:30 `cfdr la:43.142400,lo:141.473515,a:2201.2`
-2018/06/23 20:06:30 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200630.481
-cfdr la:43.142400,lo:141.473515,a:2201.2",0,0,0`
+2018/06/23 20:06:30 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200630.481cfdr la:43.142400,lo:141.473515,a:2201.2",0,0,0`
 2018/06/23 20:06:45 `cfdr la:43.142885,lo:141.476255,a:2260.6`
-2018/06/23 20:06:45 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200645.475
-cfdr la:43.142885,lo:141.476255,a:2260.6",0,0,0`
+2018/06/23 20:06:45 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200645.475cfdr la:43.142885,lo:141.476255,a:2260.6",0,0,0`
 2018/06/23 20:06:50 `d1'v*3 v*5',n:'irand',rate:'irand 1 3'`
-2018/06/23 20:06:50 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200650.475
-d1'v*3 v*5',n:'irand',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:06:50 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200650.475d1'v*3 v*5',n:'irand',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:06:55 `cfdr la:43.143272,lo:141.479016,a:2310.9`
-2018/06/23 20:06:55 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200655.478
-cfdr la:43.143272,lo:141.479016,a:2310.9",0,0,0`
+2018/06/23 20:06:55 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200655.478cfdr la:43.143272,lo:141.479016,a:2310.9",0,0,0`
 2018/06/23 20:07:05 `cfdr la:43.143868,lo:141.481772,a:2364.8`
-2018/06/23 20:07:05 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200705.478
-cfdr la:43.143868,lo:141.481772,a:2364.8",0,0,0`
+2018/06/23 20:07:05 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200705.478cfdr la:43.143868,lo:141.481772,a:2364.8",0,0,0`
 2018/06/23 20:07:09 `cps 0.5`
-2018/06/23 20:07:09 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200709.326
-cps 0.5",0,0,0`
+2018/06/23 20:07:09 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200709.326cps 0.5",0,0,0`
 2018/06/23 20:07:20 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:07:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200720.024
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:07:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200720.024with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:07:26 `d1'e*4 v*3',n:'0',rate:'irand 1 4'`
-2018/06/23 20:07:26 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200726.503
-d1'e*4 v*3',n:'0',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:07:26 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200726.503d1'e*4 v*3',n:'0',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:07:31 `cfdr la:43.145582,lo:141.489373,a:2537.6`
-2018/06/23 20:07:31 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200731.679
-cfdr la:43.145582,lo:141.489373,a:2537.6",0,0,0`
+2018/06/23 20:07:31 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200731.679cfdr la:43.145582,lo:141.489373,a:2537.6",0,0,0`
 2018/06/23 20:07:46 `cfdr la:43.146256,lo:141.492068,a:2602.3`
-2018/06/23 20:07:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200746.670
-cfdr la:43.146256,lo:141.492068,a:2602.3",0,0,0`
+2018/06/23 20:07:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200746.670cfdr la:43.146256,lo:141.492068,a:2602.3",0,0,0`
 2018/06/23 20:07:51 `d1'e*4 v*3',n:'irand 5',rate:'irand 1 4'`
-2018/06/23 20:07:51 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200751.671
-d1'e*4 v*3',n:'irand 5',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:07:51 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200751.671d1'e*4 v*3',n:'irand 5',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:07:56 `cfdr la:43.147008,lo:141.494767,a:2658.9`
-2018/06/23 20:07:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200756.671
-cfdr la:43.147008,lo:141.494767,a:2658.9",0,0,0`
+2018/06/23 20:07:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200756.671cfdr la:43.147008,lo:141.494767,a:2658.9",0,0,0`
 2018/06/23 20:08:01 `d1'v*5 v*6',n:'irand',rate:'irand 1 4'`
-2018/06/23 20:08:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200801.679
-d1'v*5 v*6',n:'irand',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:08:01 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200801.679d1'v*5 v*6',n:'irand',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:08:21 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:08:21 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200821.349
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:08:21 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200821.349with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:08:32 `cfdr la:43.149610,lo:141.506025,a:2887.4`
-2018/06/23 20:08:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200832.995
-cfdr la:43.149610,lo:141.506025,a:2887.4",0,0,0`
+2018/06/23 20:08:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200832.995cfdr la:43.149610,lo:141.506025,a:2887.4",0,0,0`
 2018/06/23 20:08:42 `cfdr la:43.150274,lo:141.508938,a:2940.9`
-2018/06/23 20:08:42 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200842.996
-cfdr la:43.150274,lo:141.508938,a:2940.9",0,0,0`
+2018/06/23 20:08:42 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200842.996cfdr la:43.150274,lo:141.508938,a:2940.9",0,0,0`
 2018/06/23 20:08:47 `d1'e*3 e*6',n:'irand 4',rate:'irand 1 2'`
-2018/06/23 20:08:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200847.997
-d1'e*3 e*6',n:'irand 4',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:08:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200847.997d1'e*3 e*6',n:'irand 4',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:08:57 `cfdr la:43.150906,lo:141.511894,a:2997.4`
-2018/06/23 20:08:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200857.997
-cfdr la:43.150906,lo:141.511894,a:2997.4",0,0,0`
+2018/06/23 20:08:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200857.997cfdr la:43.150906,lo:141.511894,a:2997.4",0,0,0`
 2018/06/23 20:09:02 `cfdr la:43.151591,lo:141.514888,a:3057.7`
-2018/06/23 20:09:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200902.998
-cfdr la:43.151591,lo:141.514888,a:3057.7",0,0,0`
+2018/06/23 20:09:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200902.998cfdr la:43.151591,lo:141.514888,a:3057.7",0,0,0`
 2018/06/23 20:09:08 `d1'v*3 e*2',n:'irand 7',rate:'irand -2 -1'`
-2018/06/23 20:09:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200908.162
-d1'v*3 e*2',n:'irand 7',rate:'irand -2 -1'",0,0,0`
+2018/06/23 20:09:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200908.162d1'v*3 e*2',n:'irand 7',rate:'irand -2 -1'",0,0,0`
 2018/06/23 20:09:11 `cps 0.5`
-2018/06/23 20:09:11 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200911.847
-cps 0.5",0,0,0`
+2018/06/23 20:09:11 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200911.847cps 0.5",0,0,0`
 2018/06/23 20:09:22 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:09:22 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200922.822
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:09:22 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200922.822with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:09:44 `cfdr la:43.153487,lo:141.525579,a:3281.2`
-2018/06/23 20:09:44 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200944.471
-cfdr la:43.153487,lo:141.525579,a:3281.2",0,0,0`
+2018/06/23 20:09:44 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200944.471cfdr la:43.153487,lo:141.525579,a:3281.2",0,0,0`
 2018/06/23 20:09:54 `cfdr la:43.153922,lo:141.528291,a:3331.5`
-2018/06/23 20:09:54 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200954.471
-cfdr la:43.153922,lo:141.528291,a:3331.5",0,0,0`
+2018/06/23 20:09:54 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 200954.471cfdr la:43.153922,lo:141.528291,a:3331.5",0,0,0`
 2018/06/23 20:10:08 `cps 0.5`
-2018/06/23 20:10:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201008.327
-cps 0.5",0,0,0`
+2018/06/23 20:10:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201008.327cps 0.5",0,0,0`
 2018/06/23 20:10:14 `cfdr la:43.154827,lo:141.533518,a:3450.7`
-2018/06/23 20:10:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201014.479
-cfdr la:43.154827,lo:141.533518,a:3450.7",0,0,0`
+2018/06/23 20:10:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201014.479cfdr la:43.154827,lo:141.533518,a:3450.7",0,0,0`
 2018/06/23 20:10:24 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:10:24 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201024.024
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:10:24 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201024.024with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:10:35 `d1'e*4 e*6',n:'irand 8',rate:'irand -4 -1'`
-2018/06/23 20:10:35 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201035.834
-d1'e*4 e*6',n:'irand 8',rate:'irand -4 -1'",0,0,0`
+2018/06/23 20:10:35 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201035.834d1'e*4 e*6',n:'irand 8',rate:'irand -4 -1'",0,0,0`
 2018/06/23 20:10:45 `cfdr la:43.156192,lo:141.541402,a:3611.0`
-2018/06/23 20:10:45 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201045.670
-cfdr la:43.156192,lo:141.541402,a:3611.0",0,0,0`
+2018/06/23 20:10:45 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201045.670cfdr la:43.156192,lo:141.541402,a:3611.0",0,0,0`
 2018/06/23 20:10:55 `cfdr la:43.156653,lo:141.544075,a:3662.7`
-2018/06/23 20:10:55 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201055.671
-cfdr la:43.156653,lo:141.544075,a:3662.7",0,0,0`
+2018/06/23 20:10:55 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201055.671cfdr la:43.156653,lo:141.544075,a:3662.7",0,0,0`
 2018/06/23 20:11:05 `d1'e*4 e*2',n:'irand 4',rate:'irand -4 -1'`
-2018/06/23 20:11:05 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201105.836
-d1'e*4 e*2',n:'irand 4',rate:'irand -4 -1'",0,0,0`
+2018/06/23 20:11:05 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201105.836d1'e*4 e*2',n:'irand 4',rate:'irand -4 -1'",0,0,0`
 2018/06/23 20:11:09 `cps 0.5`
-2018/06/23 20:11:09 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201109.521
-cps 0.5",0,0,0`
+2018/06/23 20:11:09 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201109.521cps 0.5",0,0,0`
 2018/06/23 20:11:15 `cfdr la:43.157319,lo:141.549160,a:3779.0`
-2018/06/23 20:11:15 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201115.673
-cfdr la:43.157319,lo:141.549160,a:3779.0",0,0,0`
+2018/06/23 20:11:15 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201115.673cfdr la:43.157319,lo:141.549160,a:3779.0",0,0,0`
 2018/06/23 20:11:25 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:11:25 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201125.236
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:11:25 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201125.236with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:11:31 `cfdr la:43.157995,lo:141.554260,a:3892.8`
-2018/06/23 20:11:31 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201131.889
-cfdr la:43.157995,lo:141.554260,a:3892.8",0,0,0`
+2018/06/23 20:11:31 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201131.889cfdr la:43.157995,lo:141.554260,a:3892.8",0,0,0`
 2018/06/23 20:11:46 `d1'e*2 e*2',n:'irand',rate:'irand 1 2'`
-2018/06/23 20:11:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201146.882
-d1'e*2 e*2',n:'irand',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:11:46 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201146.882d1'e*2 e*2',n:'irand',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:11:56 `cfdr la:43.158750,lo:141.559687,a:3997.4`
-2018/06/23 20:11:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201156.882
-cfdr la:43.158750,lo:141.559687,a:3997.4",0,0,0`
+2018/06/23 20:11:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201156.882cfdr la:43.158750,lo:141.559687,a:3997.4",0,0,0`
 2018/06/23 20:12:07 `d1'v*5 e*4',n:'irand 2',rate:'irand -3 -1'`
-2018/06/23 20:12:07 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201207.048
-d1'v*5 e*4',n:'irand 2',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:12:07 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201207.048d1'v*5 e*4',n:'irand 2',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:12:10 `cps 0.5`
-2018/06/23 20:12:10 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201210.733
-cps 0.5",0,0,0`
+2018/06/23 20:12:10 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201210.733cps 0.5",0,0,0`
 2018/06/23 20:12:33 `d1'v*3 v*7',n:'4',rate:'irand -3 -1'`
-2018/06/23 20:12:33 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201233.194
-d1'v*3 v*7',n:'4',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:12:33 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201233.194d1'v*3 v*7',n:'4',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:12:43 `cfdr la:43.160581,lo:141.572497,a:4255.7`
-2018/06/23 20:12:43 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201243.361
-cfdr la:43.160581,lo:141.572497,a:4255.7",0,0,0`
+2018/06/23 20:12:43 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201243.361cfdr la:43.160581,lo:141.572497,a:4255.7",0,0,0`
 2018/06/23 20:12:58 `cfdr la:43.161686,lo:141.577524,a:4352.6`
-2018/06/23 20:12:58 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201258.362
-cfdr la:43.161686,lo:141.577524,a:4352.6",0,0,0`
+2018/06/23 20:12:58 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201258.362cfdr la:43.161686,lo:141.577524,a:4352.6",0,0,0`
 2018/06/23 20:13:03 `d1'e*4 v*7',n:'irand',rate:'irand 1 4'`
-2018/06/23 20:13:03 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201303.363
-d1'e*4 v*7',n:'irand',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:13:03 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201303.363d1'e*4 v*7',n:'irand',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:13:07 `cps 0.4`
-2018/06/23 20:13:07 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201307.375
-cps 0.4",0,0,0`
+2018/06/23 20:13:07 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201307.375cps 0.4",0,0,0`
 2018/06/23 20:13:13 `cfdr la:43.162185,lo:141.580025,a:4403.8`
-2018/06/23 20:13:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201313.364
-cfdr la:43.162185,lo:141.580025,a:4403.8",0,0,0`
+2018/06/23 20:13:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201313.364cfdr la:43.162185,lo:141.580025,a:4403.8",0,0,0`
 2018/06/23 20:13:27 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:13:27 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201327.967
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:13:27 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201327.967with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:13:44 `cfdr la:43.163696,lo:141.587267,a:4563.5`
-2018/06/23 20:13:44 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201344.613
-cfdr la:43.163696,lo:141.587267,a:4563.5",0,0,0`
+2018/06/23 20:13:44 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201344.613cfdr la:43.163696,lo:141.587267,a:4563.5",0,0,0`
 2018/06/23 20:13:59 `cfdr la:43.164469,lo:141.592182,a:4683.1`
-2018/06/23 20:13:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201359.626
-cfdr la:43.164469,lo:141.592182,a:4683.1",0,0,0`
+2018/06/23 20:13:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201359.626cfdr la:43.164469,lo:141.592182,a:4683.1",0,0,0`
 2018/06/23 20:14:14 `cfdr la:43.165029,lo:141.594686,a:4740.7`
-2018/06/23 20:14:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201414.619
-cfdr la:43.165029,lo:141.594686,a:4740.7",0,0,0`
+2018/06/23 20:14:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201414.619cfdr la:43.165029,lo:141.594686,a:4740.7",0,0,0`
 2018/06/23 20:14:29 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:14:29 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201429.177
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:14:29 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201429.177with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:15:00 `cfdr la:43.166795,lo:141.606096,a:5054.3`
-2018/06/23 20:15:00 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201500.825
-cfdr la:43.166795,lo:141.606096,a:5054.3",0,0,0`
+2018/06/23 20:15:00 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201500.825cfdr la:43.166795,lo:141.606096,a:5054.3",0,0,0`
 2018/06/23 20:15:09 `cps 0.4`
-2018/06/23 20:15:09 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201509.828
-cps 0.4",0,0,0`
+2018/06/23 20:15:09 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201509.828cps 0.4",0,0,0`
 2018/06/23 20:15:20 `d1'v*3 v*2',n:'4',rate:'irand -4 -1'`
-2018/06/23 20:15:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201520.652
-d1'v*3 v*2',n:'4',rate:'irand -4 -1'",0,0,0`
+2018/06/23 20:15:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201520.652d1'v*3 v*2',n:'4',rate:'irand -4 -1'",0,0,0`
 2018/06/23 20:15:30 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:15:30 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201530.600
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:15:30 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201530.600with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:15:57 `cfdr la:43.169041,lo:141.616697,a:5310.0`
-2018/06/23 20:15:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201557.252
-cfdr la:43.169041,lo:141.616697,a:5310.0",0,0,0`
+2018/06/23 20:15:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201557.252cfdr la:43.169041,lo:141.616697,a:5310.0",0,0,0`
 2018/06/23 20:16:02 `cfdr la:43.169576,lo:141.618868,a:5363.0`
-2018/06/23 20:16:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201602.253
-cfdr la:43.169576,lo:141.618868,a:5363.0",0,0,0`
+2018/06/23 20:16:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201602.253cfdr la:43.169576,lo:141.618868,a:5363.0",0,0,0`
 2018/06/23 20:16:17 `cfdr la:43.170117,lo:141.621006,a:5416.3`
-2018/06/23 20:16:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201617.255
-cfdr la:43.170117,lo:141.621006,a:5416.3",0,0,0`
+2018/06/23 20:16:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201617.255cfdr la:43.170117,lo:141.621006,a:5416.3",0,0,0`
 2018/06/23 20:16:43 `cfdr la:43.171681,lo:141.627427,a:5580.1`
-2018/06/23 20:16:43 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201643.538
-cfdr la:43.171681,lo:141.627427,a:5580.1",0,0,0`
+2018/06/23 20:16:43 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201643.538cfdr la:43.171681,lo:141.627427,a:5580.1",0,0,0`
 2018/06/23 20:17:03 `d1'v*4 v*3',n:'irand 8',rate:'irand 1 3'`
-2018/06/23 20:17:03 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201703.550
-d1'v*4 v*3',n:'irand 8',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:17:03 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201703.550d1'v*4 v*3',n:'irand 8',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:17:08 `cfdr la:43.173194,lo:141.634250,a:5728.1`
-2018/06/23 20:17:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201708.541
-cfdr la:43.173194,lo:141.634250,a:5728.1",0,0,0`
+2018/06/23 20:17:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201708.541cfdr la:43.173194,lo:141.634250,a:5728.1",0,0,0`
 2018/06/23 20:17:12 `cps 0.4`
-2018/06/23 20:17:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201712.555
-cps 0.4",0,0,0`
+2018/06/23 20:17:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201712.555cps 0.4",0,0,0`
 2018/06/23 20:17:54 `cfdr la:43.175291,lo:141.643698,a:5943.4`
-2018/06/23 20:17:54 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201754.750
-cfdr la:43.175291,lo:141.643698,a:5943.4",0,0,0`
+2018/06/23 20:17:54 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201754.750cfdr la:43.175291,lo:141.643698,a:5943.4",0,0,0`
 2018/06/23 20:17:59 `cfdr la:43.175701,lo:141.646073,a:6000.1`
-2018/06/23 20:17:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201759.760
-cfdr la:43.175701,lo:141.646073,a:6000.1",0,0,0`
+2018/06/23 20:17:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201759.760cfdr la:43.175701,lo:141.646073,a:6000.1",0,0,0`
 2018/06/23 20:18:04 `d1'v*5 e*3',n:'irand 6',rate:'irand -3 -1'`
-2018/06/23 20:18:04 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201804.915
-d1'v*5 e*3',n:'irand 6',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:18:04 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201804.915d1'v*5 e*3',n:'irand 6',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:18:13 `cps 0.4`
-2018/06/23 20:18:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201813.764
-cps 0.4",0,0,0`
+2018/06/23 20:18:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201813.764cps 0.4",0,0,0`
 2018/06/23 20:19:35 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:19:35 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201935.913
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:19:35 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201935.913with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:19:52 `d1'e*2 v*7',n:'irand 8',rate:'irand 1 2'`
-2018/06/23 20:19:52 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201952.559
-d1'e*2 v*7',n:'irand 8',rate:'irand 1 2'",0,0,0`
+2018/06/23 20:19:52 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201952.559d1'e*2 v*7',n:'irand 8',rate:'irand 1 2'",0,0,0`
 2018/06/23 20:19:57 `cfdr la:43.182632,lo:141.676595,a:6580.8`
-2018/06/23 20:19:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201957.560
-cfdr la:43.182632,lo:141.676595,a:6580.8",0,0,0`
+2018/06/23 20:19:57 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 201957.560cfdr la:43.182632,lo:141.676595,a:6580.8",0,0,0`
 2018/06/23 20:20:12 `cfdr la:43.184340,lo:141.682376,a:6682.9`
-2018/06/23 20:20:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 202012.562
-cfdr la:43.184340,lo:141.682376,a:6682.9",0,0,0`
+2018/06/23 20:20:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 202012.562cfdr la:43.184340,lo:141.682376,a:6682.9",0,0,0`
 2018/06/23 20:31:20 `cps 0.3`
-2018/06/23 20:31:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203120.767
-cps 0.3",0,0,0`
+2018/06/23 20:31:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203120.767cps 0.3",0,0,0`
 2018/06/23 20:32:52 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:32:52 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203252.955
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:32:52 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203252.955with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:35:37 `cfdr la:43.310937,lo:142.022659,a:11609.1`
-2018/06/23 20:35:37 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203537.423
-cfdr la:43.310937,lo:142.022659,a:11609.1",0,0,0`
+2018/06/23 20:35:37 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203537.423cfdr la:43.310937,lo:142.022659,a:11609.1",0,0,0`
 2018/06/23 20:35:47 `d1'e*3 e*7',n:'irand 8',rate:'irand 1 4'`
-2018/06/23 20:35:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203547.254
-d1'e*3 e*7',n:'irand 8',rate:'irand 1 4'",0,0,0`
+2018/06/23 20:35:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203547.254d1'e*3 e*7',n:'irand 8',rate:'irand 1 4'",0,0,0`
 2018/06/23 20:36:22 `cps 0.3`
-2018/06/23 20:36:22 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203622.360
-cps 0.3",0,0,0`
+2018/06/23 20:36:22 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203622.360cps 0.3",0,0,0`
 2018/06/23 20:36:58 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:36:58 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203658.091
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:36:58 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203658.091with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:38:50 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:38:50 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203850.775
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:38:50 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203850.775cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:39:00 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:39:00 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203900.825
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:39:00 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 203900.825with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:40:02 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:40:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204002.031
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:40:02 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204002.031with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:42:20 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:42:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204220.995
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:42:20 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204220.995cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:43:12 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:43:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204312.194
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:43:12 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204312.194cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:43:17 `d1'v*3 v*4',n:'irand 8',rate:'irand 1 3'`
-2018/06/23 20:43:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204317.523
-d1'v*3 v*4',n:'irand 8',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:43:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204317.523d1'v*3 v*4',n:'irand 8',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:43:26 `cps 0.3`
-2018/06/23 20:43:26 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204326.373
-cps 0.3",0,0,0`
+2018/06/23 20:43:26 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204326.373cps 0.3",0,0,0`
 2018/06/23 20:43:47 `d1'e*2 v*4',n:'irand 8',rate:'irand 1 3'`
-2018/06/23 20:43:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204347.526
-d1'e*2 v*4',n:'irand 8',rate:'irand 1 3'",0,0,0`
+2018/06/23 20:43:47 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204347.526d1'e*2 v*4',n:'irand 8',rate:'irand 1 3'",0,0,0`
 2018/06/23 20:45:08 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:45:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204508.468
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:45:08 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204508.468with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:45:29 `d1'e*3 v*8',n:'5',rate:'irand -3 -1'`
-2018/06/23 20:45:29 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204529.950
-d1'e*3 v*8',n:'5',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:45:29 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204529.950d1'e*3 v*8',n:'5',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:45:59 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:45:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204559.796
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:45:59 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204559.796cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:46:21 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:46:21 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204621.051
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:46:21 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204621.051cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:47:17 `d1'v*2 e*3',n:'3',rate:'irand -3 -1'`
-2018/06/23 20:47:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204717.576
-d1'v*2 e*3',n:'3',rate:'irand -3 -1'",0,0,0`
+2018/06/23 20:47:17 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204717.576d1'v*2 e*3',n:'3',rate:'irand -3 -1'",0,0,0`
 2018/06/23 20:49:13 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:49:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204913.613
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:49:13 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 204913.613with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:50:14 `with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end`
-2018/06/23 20:50:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205014.813
-with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
+2018/06/23 20:50:14 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205014.813with_fx :echo do synth :dpulse, note: :c6, amp:0.5, release: 0.125 end",0,0,0`
 2018/06/23 20:50:56 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:50:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205056.130
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:50:56 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205056.130cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:52:32 `cps 0.3`
-2018/06/23 20:52:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205232.842
-cps 0.3",0,0,0`
+2018/06/23 20:52:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205232.842cps 0.3",0,0,0`
 2018/06/23 20:52:38 `cfdr la:0.000000,lo:0.000000,a:`
-2018/06/23 20:52:38 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205238.665
-cfdr la:0.000000,lo:0.000000,a:",0,0,0`
+2018/06/23 20:52:38 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205238.665cfdr la:0.000000,lo:0.000000,a:",0,0,0`
 2018/06/23 20:53:34 `cps 0.3`
-2018/06/23 20:53:34 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205334.192
-cps 0.3",0,0,0`
+2018/06/23 20:53:34 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205334.192cps 0.3",0,0,0`
 2018/06/23 20:55:36 `cps 0.3`
-2018/06/23 20:55:36 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205536.607
-cps 0.3",0,0,0`
+2018/06/23 20:55:36 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 205536.607cps 0.3",0,0,0`
