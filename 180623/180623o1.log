@@ -1,3 +1,5 @@
+2018/06/23 19:59:32 `cfdr la:43.123050,lo:141.430926,a:15.9`
+2018/06/23 19:59:32 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195932.841cfdr la:43.123050,lo:141.430926,a:15.9",0,0,0`
 2018/06/23 19:59:38 `d1'v*2 e*4',n:'irand 1',rate:'irand -4 -1'`
 2018/06/23 19:59:38 `osc_send "localhost",4558,"/buffer/replace","workspace_one","# 20180623 195938.018d1'v*2 e*4',n:'irand 1',rate:'irand -4 -1'",0,0,0`
 2018/06/23 19:59:47 `cfdr la:43.123050,lo:141.430926,a:15.0`
